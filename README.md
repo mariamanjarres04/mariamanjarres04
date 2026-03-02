@@ -1,9 +1,11 @@
-## Hi there 👋
+Hi gyus!
+My name is, Maria Clara Manjarrés.
+I'm twenty eight years Old. 
 
-<!--
-**mariamanjarres04/mariamanjarres04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm studing a master in digital Marketing in the tecnology university of mexico. and I studied Administration in the Universidad autónoma del caribe University.
+I'm currently working on  editing videos for Music bussines, tecnology, etc. 
+About me, I love cooking in my free time. My hobby is read to books about relation marketing and actuality I'm studing to future coder and analitycs of software.
+I'm Looking for help with solutions tecnologies 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
